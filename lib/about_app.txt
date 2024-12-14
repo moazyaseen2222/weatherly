@@ -1,0 +1,18 @@
+
+*** Weahter Wave ***
+Nicely wather app with beutiful UI.
+- Features:
+ 1- Search your city and get the current weather.
+ 2- With your city weather you will got the other weahter inforamtion like:
+    - Temp & main status.
+    - Description about weahter.
+    - Max & Min Temp.
+    - Humidity &  Pressure & Wind Speed
+ 3- Favorite List :
+      - Save your favorite cites list and get thire weahter faster.
+ 4- Stopwatch counter:
+      - You can start the Stopwatch and count the time.
+ 5- Timer counter:
+      - You can set the time and use timer to count down.
+
+
